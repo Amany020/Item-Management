@@ -1,4 +1,4 @@
-# Item-Management
+# Item-Management-System
 Code to create a software in which python is connected with MySQL.<br>
 Item_Management-System<br>
 Pharmacy Management System in Python<br>
